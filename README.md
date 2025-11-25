@@ -2,7 +2,7 @@
 
 A modern web app for translating FFXIV macros between English, German, and French. Built with React, TypeScript, and Vite.
 
-![Preview](preview.png)
+ffxivmacrofy.netlify.app
 
 ## Features
 
