@@ -1,7 +1,7 @@
 import Translator from "./components/Translator";
 
 function App() {
-  return <Translator />;
+    return <Translator />;
 }
 
 export default App;
